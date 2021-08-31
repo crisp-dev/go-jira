@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/crisp-dev/jwt/v3"
+	"github.com/crisp-dev/jwt"
 	"github.com/google/go-querystring/query"
 	"github.com/pkg/errors"
 )
